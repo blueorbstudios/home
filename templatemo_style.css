@@ -413,6 +413,7 @@ h6 {
 }
 
 .bx-wrapper img {
+  background-image: url(Title.png);
   opacity: 0.8;
   filter: alpha(opacity=80);
 }
