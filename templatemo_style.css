@@ -395,15 +395,6 @@ h6 {
 /* ==========================================================================
     Slider Styling
    ========================================================================== */
-
-.title .title.first {
-  background-image: url(Title.png);
-}
-
-.capturetwo .capturetwo.first {
-  background-image: url(capturetwo.jpg);
-}
-
 .site-slider {
   padding-top: 102px;
 }
