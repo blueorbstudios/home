@@ -434,7 +434,7 @@ h6 {
 
 .slider-caption {
   position: absolute;
-  z-index: 988;
+  z-index: center;
   bottom: 140px;
   background-color: white;
   display: inline-block;
