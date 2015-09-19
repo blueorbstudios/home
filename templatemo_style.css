@@ -224,7 +224,7 @@ body {
 }
 
 a {
-  color: #007FFF;
+  color: #26b864;
   text-decoration: none !important;
   -webkit-transition: all 200ms ease-in;
   -moz-transition: all 200ms ease-in;
@@ -299,7 +299,7 @@ h6 {
 }
 
 .bigger-text {
-  font-size: 24px;
+  font-size: 16px;
   line-height: 28px;
   font-weight: 500;
   margin-bottom: 50px;
@@ -318,11 +318,10 @@ h6 {
 }
 
 #templatemo_logo {
-  background-color: #007FFF;
+  background-color: #26b864;
   background-image: url(../images/templatemo_logo.png);
   background-repeat: no-repeat;
   background-position: 30px center;
-  width: 400px;
   height: 102px;
   display: block;
 }
@@ -334,7 +333,7 @@ h6 {
   display: block;
 }
 #templatemo_logo h1 a {
-  margin-left: 125px;
+  margin-left: 140px;
   color: white;
   display: block;
 }
@@ -364,7 +363,7 @@ h6 {
   display: block;
 }
 .main-menu ul li a.current {
-  background: url() no-repeat;
+  background: url(../images/active-state.png) no-repeat;
   background-position: center 65px;
 }
 
@@ -388,7 +387,7 @@ h6 {
 }
 .responsive .main-menu ul li a.current {
   background-image: none;
-  color: #007FFF;
+  color: #26b864;
   border-bottom: 0;
 }
 
@@ -425,7 +424,7 @@ h6 {
 
 .slider-caption {
   position: absolute;
-  z-index: 998px;
+  z-index: 988;
   bottom: 140px;
   background-color: white;
   display: inline-block;
@@ -455,7 +454,7 @@ h6 {
 #bx-pager a.active {
   opacity: 1;
   filter: alpha(opacity=100);
-  background: url() no-repeat;
+  background: url(../images/active-state.png) no-repeat;
   background-position: center 85px;
 }
 
@@ -528,7 +527,7 @@ h6 {
    ========================================================================== */
 .item-small {
   padding: 20px;
-  background-color: #007FFF;
+  background-color: #26b864;
   color: white;
   text-align: center;
 }
@@ -582,7 +581,7 @@ h6 {
   position: absolute;
   width: 100%;
   height: 100%;
-  border: 3px solid #007FFF;
+  border: 3px solid #26b864;
   padding: 20px;
   z-index: 97;
   background-color: rgba(255, 255, 255, 0.9);
@@ -606,7 +605,7 @@ h6 {
   background: url(../images/active-state.png) no-repeat;
   background-position: center 20px;
   padding-bottom: 30px;
-  color: #007FFF;
+  color: #26b864;
   font-weight: 600;
   font-size: 16px;
   text-transform: uppercase;
@@ -628,7 +627,7 @@ h6 {
   font-style: normal;
 }
 .product-item span em.price {
-  color: #007FFF;
+  color: #26b864;
 }
 .product-item span em.text-muted {
   color: #a3a7aa;
@@ -667,7 +666,7 @@ input.button {
   width: auto;
   background: url(../images/active-state.png) no-repeat;
   background-position: center bottom;
-  color: #007FFF;
+  color: #26b864;
   font-size: 16px;
   text-transform: uppercase;
   font-weight: 700;
@@ -677,7 +676,7 @@ input.button {
 
 .site-footer {
   margin-top: 120px;
-  background-color: #007FFF;
+  background-color: #26b864;
   color: white;
   padding: 25px 0;
 }
