@@ -3,9 +3,9 @@
   if (isset($_REQUEST['Email']))  {
   
   //Email information
-  $admin_email = "blueorbstudiosuk@gmail.com";
+  $admin_email = 'blueorbstudiosuk@gmail.com';
   $email = $_REQUEST['Email'];
-  $name = $_REQUEST['Name'];
+  $subject = $_REQUEST['Name'];
   $message = $_REQUEST['Message'];
   
   //send email
