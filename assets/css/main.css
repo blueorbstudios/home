@@ -1596,8 +1596,14 @@
 		}
 
 	h2 {
+<<<<<<< HEAD
 		font-size: 2em;
 		letter-spacing: -1px;
+=======
+	font-size: 2em;
+	letter-spacing: -1px;
+	text-align: center;
+>>>>>>> master
 	}
 
 		h2.alt {
@@ -1673,7 +1679,12 @@
 	}
 
 	p, ul, ol, dl, table {
+<<<<<<< HEAD
 		margin-bottom: 2em;
+=======
+	margin-bottom: 2em;
+	text-align: center;
+>>>>>>> master
 	}
 
 	br.clear {
@@ -1689,7 +1700,12 @@
 		section > :last-child,
 		section > .container, section:last-child, article > :last-child,
 		article > .container, article:last-child {
+<<<<<<< HEAD
 			margin-bottom: 0;
+=======
+	margin-bottom: 0;
+	text-align: left;
+>>>>>>> master
 		}
 
 		.row > section, .row > article {
@@ -2154,7 +2170,12 @@
 				}
 
 					#main > section.dark a:hover {
+<<<<<<< HEAD
 						border-bottom-color: rgba(255, 255, 255, 0);
+=======
+	border-bottom-color: rgba(255, 255, 255, 0);
+	text-align: center;
+>>>>>>> master
 					}
 
 			#main > section.cover {
